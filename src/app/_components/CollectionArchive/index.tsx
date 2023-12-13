@@ -162,7 +162,7 @@ export const CollectionArchive: React.FC<Props> = props => {
 
         <div className={classes.grid}>
           {results.docs?.map((result, index) => {
-            return <Card key={index} relationTo="products" doc={result} showCategories />
+            return <Card relationTo="products" doc={result} showCategories />
           })}
         </div>
 

@@ -3,6 +3,8 @@
 
 이 프로젝트는 PayloadCMS를 활용하여 개발한 E-Commerce 웹 사이트의 클론입니다.
 
+![홈 화면](https://github.com/skagn4929/E-Commerce-Clone/assets/134206709/d0f14f6a-cd89-47a7-9f29-ab337be5f683)
+
 ## Payload ?
 Payload는 Node.js 기반의 오픈 소스 컨텐츠 관리 시스템(CMS)으로, 사용자가 웹사이트 또는 애플리케이션을 쉽게 만들고 관리할 수 있도록 도와주는 도구입니다. Payload는 확장 가능하며, 사용자가 데이터 모델을 정의하고 풍부한 내용을 관리할 수 있도록 해줍니다.
 

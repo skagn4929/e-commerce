@@ -83,7 +83,7 @@ Payload는 반응형 디자인을 지원하여 다양한 디바이스에서 웹�
 
 ## 기술 스택
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702911862310?alt=media&token=c8990f20-e8fc-45f7-bbfd-f2c016dafb80)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702912881979?alt=media&token=58c0e28c-da6f-45bd-9b44-4e1dde1dd5f8)](https://github.com/msdio/stackticon)
 
 ## 참고
 

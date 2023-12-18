@@ -71,3 +71,23 @@ Payload는 반응형 디자인을 지원하여 다양한 디바이스에서 웹�
 ![제품 상세페이지](https://github.com/skagn4929/E-Commerce-Clone/assets/134206709/663dbd56-f45b-4fd2-b002-1c66b6e544a0)
 
 
+### 👜 Cart 기능 및 주문 처리
+
+- 사용자는 제품을 Cart에 추가하고 Cart를 통해 주문할 수 있습니다.
+
+![장바구니 페이지](https://github.com/skagn4929/E-Commerce-Clone/assets/134206709/f61ea16d-7e8c-4664-bb02-dd07f8d2d7fc)
+
+- 결제 및 주문 처리에 대한 정보는 사용자에게 적절한 방법으로 제공됩니다.
+
+<img width="1440" alt="스크린샷 2023-12-18 오후 9 38 13" src="https://github.com/skagn4929/E-Commerce-Clone/assets/134206709/de7b29ab-0696-4b74-aa49-be0fc3faf380">
+
+
+## 기술 스택
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1702911862310?alt=media&token=c8990f20-e8fc-45f7-bbfd-f2c016dafb80)](https://github.com/msdio/stackticon)
+
+## 참고
+
+- [PayloadCMS](https://payloadcms.com/new?utm_source=youtube&utm_medium=video&utm_campaign=jsmastery)
+- [Payload E-Commerce Template](https://github.com/payloadcms/payload/tree/main/templates/ecommerce)
+- [Video Tutorial](https://www.youtube.com/watch?v=3JUsg-WsU9o)

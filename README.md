@@ -1,7 +1,5 @@
 # E-Commerce Clone
-- [E-Commerce Clone](https://e-commerce-knh.payloadcms.app/)
-
-이 프로젝트는 PayloadCMS를 활용하여 개발한 E-Commerce 웹 사이트의 클론입니다.
+이 프로젝트는 PayloadCMS를 활용하여 개발한 E-Commerce 웹 사이트 클론입니다.
 
 ![홈 화면](https://github.com/skagn4929/E-Commerce-Clone/assets/134206709/d0f14f6a-cd89-47a7-9f29-ab337be5f683)
 
